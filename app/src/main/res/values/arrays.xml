@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name='rescueGrade'>
+        <item>&lt;구조 레벨을 선택해주세요.&gt;</item>
+        <item>1(의사/간호사)</item>
+        <item>2(응급 구조사)</item>
+        <item>3(교육 이수자)</item>
+    </string-array>
+</resources>
