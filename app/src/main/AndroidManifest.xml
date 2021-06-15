@@ -18,7 +18,7 @@
 
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyBYFz2DjwMb461zQKaRBdiv6257bOA3fmY" />
+            android:value="" />
 
         <activity android:name=".PushMessage" />
         <activity android:name=".ReportInform" />
